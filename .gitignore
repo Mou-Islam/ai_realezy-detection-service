@@ -1,0 +1,8 @@
+__pycache__/
+virtual/
+__pycache__/
+weights/
+.env
+resnet50_places365.pth.tar
+venv
+yolov8n.pt
